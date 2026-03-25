@@ -32,7 +32,7 @@ To run this project on your local machine, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/sudeeyilmaz/Sports-Person-Classifier.git](https://github.com/sudeeyilmaz/Sports-Person-Classifier.git)
+   git clone https://github.com/sudeeyilmaz/Sports-Person-Classifier.git
    cd Sports-Person-Classifier
    ```
 2. Create and activate a virtual environment.
